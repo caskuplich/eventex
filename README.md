@@ -3,6 +3,9 @@
 Sistema de Eventos encomendado pela Morena. Projeto de exemplo desenvolvido no
 [Welcome to the Django](http://welcometothedjango.com.br/).
 
+[![Build Status](https://travis-ci.org/caskuplich/eventex.svg?branch=master)](https://travis-ci.org/caskuplich/eventex)
+[![Code Health](https://landscape.io/github/caskuplich/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/caskuplich/eventex/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
